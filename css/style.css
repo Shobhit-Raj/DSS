@@ -1,0 +1,36 @@
+/*******************************Tag selectors********************************/
+body{
+   background-color:#b0e0e6;
+   }
+   h1{
+     color:orange;
+
+     }
+     h2{
+       color:Pink
+     }
+     h3{
+       color: green
+     }
+     img{
+       border-radius: 50px;
+     }
+/************************************class selectors***************************/
+.First{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #f0f8ff;
+  width: 15%
+  }
+  .Second{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: blue;
+    width: 15%
+    }
+    .circural{
+      border-radius: 100px;
+    }
+/************************************id selectors*****************************/
